@@ -1,8 +1,6 @@
 # Olá, me chamo Luis   ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-
-- 🔭 Atualmente estou buscando um emprego (I'm currently looking for a job.).
 - Estou reorganizando alguns repositórios...
 - Meu git com códigos gerais: https://github.com/Lusigmes
  
