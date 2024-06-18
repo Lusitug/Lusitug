@@ -1,7 +1,7 @@
 # Olá, me chamo Luis   ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- Estou reorganizando alguns repositórios...
+- Estou reorganizando meu repositório...
 - Meu git com códigos gerais: https://github.com/Lusigmes
  
 ## Ferramentas e Tecnologias
