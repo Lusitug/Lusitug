@@ -20,12 +20,6 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
-## Status
-<div>
-<a href="https://github.com/Lusigmes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusigmes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-                             
 ## Contatos
 <div>
 <a href="https://instagram.com/llusitu/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
