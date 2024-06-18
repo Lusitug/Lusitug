@@ -4,6 +4,7 @@
 
 - 🔭 Atualmente estou buscando um emprego (I'm currently looking for a job.).
 - Estou reorganizando alguns repositórios...
+- Meu git com códigos gerais: https://github.com/Lusigmes
  
 ## Ferramentas e Tecnologias
 <div>
